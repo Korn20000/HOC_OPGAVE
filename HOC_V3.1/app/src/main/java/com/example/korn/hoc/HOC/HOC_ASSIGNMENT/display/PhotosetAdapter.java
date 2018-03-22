@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.ImageUrl;
-import com.simplifynowsoftware.flickrdemo.R;
+import com.example.korn.hoc.R;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.publicphotosets.PublicPhotos;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.publicphotosets.Public_Photosets;
 import com.squareup.picasso.Picasso;

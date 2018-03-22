@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ImageView;
 
-import com.simplifynowsoftware.flickrdemo.R;
+import com.example.korn.hoc.R;
 import com.squareup.picasso.Picasso;
 
 /**

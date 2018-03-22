@@ -24,7 +24,7 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
-import com.simplifynowsoftware.flickrdemo.R;
+import com.example.korn.hoc.R;
 
 /**
  * Created by KoRn on 15-03-2018.

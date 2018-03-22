@@ -22,7 +22,7 @@ import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.publicphotosets.PublicPhotos;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.publicphotosets.Public_Photosets;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.userinfo.UserPerson;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.userinfo.UserData;
-import com.simplifynowsoftware.flickrdemo.R;
+import com.example.korn.hoc.R;
 import com.squareup.otto.Subscribe;
 import com.squareup.picasso.Picasso;
 

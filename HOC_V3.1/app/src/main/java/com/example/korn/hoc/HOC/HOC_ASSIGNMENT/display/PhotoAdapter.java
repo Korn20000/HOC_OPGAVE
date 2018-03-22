@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.ImageUrl;
-import com.example.korn.hoc.HOC.R;
+import com.example.korn.hoc.R;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.interfaces.PhotoCommon;
 import com.squareup.picasso.Picasso;
 

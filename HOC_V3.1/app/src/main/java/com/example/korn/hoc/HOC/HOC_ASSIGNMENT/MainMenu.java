@@ -11,13 +11,13 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.example.korn.hoc.R;
 import com.google.api.client.auth.oauth2.Credential;
 import com.example.korn.hoc.HOC.apache.FragTabPagerCompat;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.oauth.OAuthHandler;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.interfaces.FlickrClient;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.validate.ServiceGenerator;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.validate.TokenValidation;
-import com.simplifynowsoftware.flickrdemo.R;
 import com.squareup.otto.Bus;
 import com.wuman.android.auth.oauth.OAuthHmacCredential;
 

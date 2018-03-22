@@ -14,7 +14,7 @@ import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.display.PhotoAdapter;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.interfaces.PhotoCommon;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.interstingphotos.PublicInterestingPics;
 import com.example.korn.hoc.HOC.HOC_ASSIGNMENT.privatephotoset.PrivatePhotoSet;
-import com.simplifynowsoftware.flickrdemo.R;
+import com.example.korn.hoc.R;
 
 import java.util.ArrayList;
 import java.util.List;
